@@ -5,3 +5,8 @@ node_modules
 *.code-workspace
 *.sublime-project
 *.sublime-workspace
+
+yarn.lock
+.idea
+.vscode
+.history
